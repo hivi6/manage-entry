@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "548692408203",
+    "firebase_url": "https://manage-4c5b4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "manage-4c5b4",
+    "storage_bucket": "manage-4c5b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548692408203:android:aaf328fe3f10222575618e",
+        "android_client_info": {
+          "package_name": "com.example.manage_entry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548692408203-emsgodcmiq7rq732k23ii8toubol861n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAYm2yF0Qj72L63Q1In-ey4osowAy7OXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548692408203-emsgodcmiq7rq732k23ii8toubol861n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
